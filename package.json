@@ -1,0 +1,21 @@
+{
+  "name": "endou-mame-vsc-material",
+  "displayName": "endou-mame-vsc-material",
+  "description": "endou-mame's VSCode Material Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "endou-mame-vsc-material",
+        "uiTheme": "hc-black",
+        "path": "./themes/endou-mame-vsc-material-color-theme.json"
+      }
+    ]
+  }
+}

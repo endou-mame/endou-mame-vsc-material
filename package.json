@@ -17,5 +17,11 @@
         "path": "./themes/endou-mame-vsc-material-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/endou-mame/endou-mame-vsc-material.git"
+  },
+  "license": "MIT",
+  "author": "kakiuchi-shigenao <87973394+endou-mame@users.noreply.github.com>"
 }
